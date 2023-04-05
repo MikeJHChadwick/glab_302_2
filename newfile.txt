@@ -1,1 +1,3 @@
 This is a new file
+Now I'm adding new content after already commiting the file once. This will be the second commit.
+
