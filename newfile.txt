@@ -1,3 +1,5 @@
 This is a new file
 Now I'm adding new content after already commiting the file once. This will be the second commit.
 
+This is now being adding from the my-new-branch branch. How this affects the whole is yet to be seen.
+
